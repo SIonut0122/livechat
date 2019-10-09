@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/livechat/static/css/main.8b33c88f.chunk.css",
+    "main.js": "/livechat/static/js/main.e148d54b.chunk.js",
+    "main.js.map": "/livechat/static/js/main.e148d54b.chunk.js.map",
+    "runtime~main.js": "/livechat/static/js/runtime~main.d3d556a9.js",
+    "runtime~main.js.map": "/livechat/static/js/runtime~main.d3d556a9.js.map",
+    "static/js/2.f29421d0.chunk.js": "/livechat/static/js/2.f29421d0.chunk.js",
+    "static/js/2.f29421d0.chunk.js.map": "/livechat/static/js/2.f29421d0.chunk.js.map",
+    "index.html": "/livechat/index.html",
+    "precache-manifest.dcbe71cb83675a60f83b10ff60c8580f.js": "/livechat/precache-manifest.dcbe71cb83675a60f83b10ff60c8580f.js",
+    "service-worker.js": "/livechat/service-worker.js",
+    "static/css/main.8b33c88f.chunk.css.map": "/livechat/static/css/main.8b33c88f.chunk.css.map",
+    "static/media/style.css": "/livechat/static/media/intro_star_bg.d8ced7be.jpg"
+  }
+}
