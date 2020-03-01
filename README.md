@@ -1,5 +1,7 @@
 ## Description
 
+Source code: https://github.com/SIonut0122/livechat/tree/gh-pages/livechat
+
 This app allows you to create an account and start chatting through a live chat.
 
 This live chat is meant to be fully responsive on every device screen.
