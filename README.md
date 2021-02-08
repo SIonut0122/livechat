@@ -1,4 +1,4 @@
-## Description
+## Live Chat v1.0
 
 Source code: https://github.com/SIonut0122/livechat/tree/gh-pages/livechat
 
